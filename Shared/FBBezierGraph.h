@@ -7,6 +7,7 @@
 //
 
 #import "MWGeometry.h"
+#import <Foundation/Foundation.h>
 
 // FBBezierGraph is more or less an exploded version of an NSBezierPath, and
 //  the two can be converted between easily. FBBezierGraph allows boolean

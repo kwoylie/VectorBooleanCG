@@ -9,7 +9,7 @@
 
 // This class encapsulates most of the former functionality of MyDocument.
 
-
+#import <Foundation/Foundation.h>
 @class Canvas;
 
 

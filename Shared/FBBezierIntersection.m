@@ -9,6 +9,7 @@
 #import "FBBezierIntersection.h"
 #import "FBBezierCurve.h"
 #import "FBGeometry.h"
+#import <Foundation/Foundation.h>
 
 @interface FBBezierIntersection ()
 {

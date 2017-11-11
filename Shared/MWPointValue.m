@@ -7,7 +7,7 @@
 //
 
 #import "MWPointValue.h"
-
+#import <Foundation/Foundation.h>
 
 @implementation MWPointValue
 {

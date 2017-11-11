@@ -7,8 +7,10 @@
 //  Copyright 2011 Fortunate Bear, LLC. All rights reserved.
 //
 
+#ifndef Canvas_h
+#define Canvas_h
 #import <Foundation/Foundation.h>
-
+#endif
 
 @interface Canvas : NSObject {
     NSMutableArray *_paths;

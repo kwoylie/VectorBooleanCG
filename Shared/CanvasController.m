@@ -13,8 +13,10 @@
 
 
 #if TARGET_OS_IPHONE
+#import <UIKit/UIKit.h>
 #define COLOR_CLASS     UIColor
 #else
+#import <AppKit/AppKit.h>
 #define COLOR_CLASS     NSColor
 #endif
 

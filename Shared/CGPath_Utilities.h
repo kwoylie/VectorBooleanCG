@@ -9,12 +9,14 @@
 
 #ifndef VectorBoolean_CGPath_Utilities_h
 #define VectorBoolean_CGPath_Utilities_h
+#import <Foundation/Foundation.h>
 
 #if TARGET_OS_IPHONE
 #import <CoreGraphics/CoreGraphics.h>
 #else
 #import <ApplicationServices/ApplicationServices.h>
 #endif
+
 
 #import "MWGeometry.h"
 
