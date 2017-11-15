@@ -10,12 +10,12 @@
 #ifndef VectorBoolean_CGPath_Boolean_h
 #define VectorBoolean_CGPath_Boolean_h
 
-#if TARGET_OS_IPHONE
+
 #import <CoreGraphics/CoreGraphics.h>
-#else
+
+#if !TARGET_OS_IPHONE
 #import <ApplicationServices/ApplicationServices.h>
 #endif
-
 
 CGPathRef CGPath_FBCreateUnion (
     CGPathRef path,

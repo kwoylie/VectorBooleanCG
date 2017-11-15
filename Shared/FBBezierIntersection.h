@@ -7,6 +7,8 @@
 //
 
 #import "MWGeometry.h"
+#import <Foundation/Foundation.h>
+
 @class FBBezierCurve;
 
 // FBBezierIntersection stores where two bezier curves intersect. Initially it just stores

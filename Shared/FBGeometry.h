@@ -8,6 +8,7 @@
 
 
 #include "MWGeometry.h"
+#import <Foundation/Foundation.h>
 
 
 MWFloat FBDistanceBetweenPoints(MWPoint point1, MWPoint point2);

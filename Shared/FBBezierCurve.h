@@ -7,6 +7,7 @@
 //
 
 #import "MWGeometry.h"
+#import <Foundation/Foundation.h>
 
 // FBRange is a range of parameter (t)
 typedef struct FBRange {

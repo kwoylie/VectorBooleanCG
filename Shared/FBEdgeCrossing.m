@@ -6,10 +6,12 @@
 //  Copyright 2011 Fortunate Bear, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import "FBEdgeCrossing.h"
 #import "FBContourEdge.h"
 #import "FBBezierCurve.h"
 #import "FBBezierIntersection.h"
+
 
 @implementation FBEdgeCrossing
 

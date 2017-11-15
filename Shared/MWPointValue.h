@@ -7,6 +7,7 @@
 //
 
 #import "MWGeometry.h"
+#import <Foundation/Foundation.h>
 
 @interface MWPointValue : NSObject
 
